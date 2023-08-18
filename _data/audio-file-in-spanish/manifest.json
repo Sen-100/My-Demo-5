@@ -3,6 +3,13 @@
     "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Audio File in Spanish" ] },
+    "provider": [
+      {
+        "id": "https://archive.or",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/canvas-1/canvas",
