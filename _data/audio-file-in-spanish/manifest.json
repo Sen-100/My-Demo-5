@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Audio File in Spanish" ] },
+    "items": [
+      {
+        "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 144.0,
+        "items": [
+          {
+            "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia802709.us.archive.org/2/items/rv-track-1/RV_Track%201.mp",
+                    "duration": 144.0
+                },
+                "target": "https://Sen-100.github.io/My-Demo-5/audio-file-in-spanish/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
