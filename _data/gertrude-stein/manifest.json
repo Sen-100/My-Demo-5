@@ -3,12 +3,11 @@
     "id": "https://Sen-100.github.io/My-Demo-5/gertrude-stein/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Gertrude Stein" ] },
-    "homepage": [
+    "provider": [
       {
-        "id": "https://archive.org/details/pacifica_radio_archives-IZ1349.07",
-        "type": "Text",
-        "label": { "en": [ "Gertrude Stein" ] },
-        "format": "text/html"
+        "id": "http://audiannotate.brumfieldlabs.com/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archives" ] }
       }
     ],
     "items": [
